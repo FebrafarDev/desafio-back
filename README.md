@@ -11,7 +11,7 @@ Siga as instruções com calma e não deixe de evidenciar o seu progresso, mesmo
 # Regras
 
 - Crie um repositório privado na sua conta do Github
-- Ao final do desafio, compartilhe o acesso ao repositório com [@Rodrigo](https://github.com/Leonavas) e [@Mikail](https://github.com/ajukas)
+- Ao final do desafio, compartilhe o acesso ao repositório com [@Mikail](https://github.com/ajukas) e [@Gabriel](https://github.com/ggmalimpensa)
 
 ## Criar uma aplicação para cálculo de pontos e números da sorte
 
