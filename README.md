@@ -11,13 +11,15 @@ Siga as instruções com calma e não deixe de evidenciar o seu progresso, mesmo
 # Regras
 
 - Crie um repositório privado na sua conta do Github
-- Ao final do desafio, compartilhe o acesso ao repositório com [@Mikail](https://github.com/ajukas) e [@Gabriel](https://github.com/ggmalimpensa)
+- Ao final do desafio, compartilhe o acesso ao repositório com [@Mikail](https://github.com/ajukas), [@Gabriel](https://github.com/ggmalimpensa) e [@Leonavas](https://github.com/Leonavas)
 
 ## Criar uma aplicação para cálculo de pontos e números da sorte
 
 ### Descrição:
 
-A Febrafar é responsável por realizar campanhas sazonais de vendas de produtos nas farmácias. Para incentivar as vendas, os balconistas das lojas recebem pontos para cada venda realizada e esses pontos acumulam durante a campanha, e a cada 100 pontos, o balconista ganha um número da sorte para concorrer a um sorteio ao final da campanha. O objetivo da aplicação é calcular a quantidade de pontos que o balconista vai ganhar ao realizar uma venda (que será fornecida como exemplo) e também a quantidade de números da sorte.
+A Febrafar realiza campanhas sazonais para impulsionar as vendas de produtos em farmácias. Como parte do incentivo, os balconistas das lojas acumulam pontos a cada venda realizada durante a campanha. Esses pontos são somados ao longo do período da campanha, e, a cada 100 pontos acumulados, o balconista ganha um número da sorte que o qualifica para participar de um sorteio ao final da campanha.
+
+O desafio consiste em desenvolver uma aplicação que calcule a quantidade de pontos que um balconista irá ganhar com uma venda específica (que será fornecida como exemplo) e determinar quantos números da sorte ele terá acumulado com base nesses pontos.
 
 ### Como calcular a quantidade de pontos:
 - 10 pontos por venda
